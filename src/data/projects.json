@@ -1,0 +1,27 @@
+[
+    {
+      "title": "Event Managnment",
+      "imageSrc": "projects/eventManagnment.png",
+      "description": "This is a project involves creating a dynamic event filtering system based on dates.",
+      "skills": ["React", "JavaScript","CSS"],
+      "demo": "https://event-managnment.netlify.app",
+      "source": "https://github.com/SagarTendulkar/Event-Management"
+    },
+    {
+      "title": "Ecommerce",
+      "imageSrc": "projects/ecommerce.png",
+      "description": "This is a ecommerce website with shopping cart and product lists using FakeStore Api.",
+      "skills": ["React", "Redux", "JavaScript"],
+      "demo": "https://ecom-using-redux.netlify.app",
+      "source": "https://github.com/SagarTendulkar/EcommerceSite"
+    },
+    {
+      "title": "Mini Project",
+      "imageSrc": "projects/miniProject.png",
+      "description": "This is a Mini Project visually appealing and informative layout website design",
+      "skills": ["HTML", "CSS", "Bootstrap"],
+      "demo": "https://ait-mini-project.netlify.app/",
+      "source": "https://github.com/SagarTendulkar/Mini-Project-"
+    }
+]
+  
